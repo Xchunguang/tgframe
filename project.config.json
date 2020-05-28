@@ -1,0 +1,95 @@
+{
+	"description": "项目配置文件。",
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true
+	},
+	"compileType": "game",
+	"libVersion": "1.9.94",
+	"appid": "wxfaee98a44decd2ef",
+	"projectname": "tgframe",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"miniprogramRoot": "game/",
+	"packOptions": {
+		"ignore": [
+			{
+				"type": "folder",
+				"value": "node_modules"
+			},
+			{
+				"type": "folder",
+				"value": "src"
+			},
+			{
+				"type": "folder",
+				"value": "test"
+			},
+			{
+				"type": "folder",
+				"value": "docs"
+			},
+			{
+				"type": "file",
+				"value": ".editorconfig"
+			},
+			{
+				"type": "file",
+				"value": ".gitignore"
+			},
+			{
+				"type": "file",
+				"value": ".travis.yml"
+			},
+			{
+				"type": "file",
+				"value": "LICENSE"
+			},
+			{
+				"type": "file",
+				"value": "package.json"
+			},
+			{
+				"type": "file",
+				"value": "package-lock.json"
+			},
+			{
+				"type": "file",
+				"value": "README.md"
+			},
+			{
+				"type": "file",
+				"value": "rollup.config.ts"
+			},
+			{
+				"type": "file",
+				"value": "tsconfig.json"
+			},
+			{
+				"type": "file",
+				"value": "tslint.json"
+			}
+		]
+	},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": -1,
+			"list": []
+		}
+	}
+}
